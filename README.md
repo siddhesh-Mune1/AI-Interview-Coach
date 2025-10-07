@@ -1,2 +1,13 @@
-# AI-Interview-Coach
-AI Interview Coach is a web app that helps beginners practice coding in JavaScript using React and Express. It uses Puter.ai to generate real-time coding questions and answers, with a CodeMirror editor and Tailwind CSS for a smooth, responsive experience.
+**Pending Updates**
+
+1. Make Buttons Responsive //Done
+2. Push On Git-hub
+3. Check Question Page 4 Buttons( When Click Any One Button Then All The Button Set Loding True )
+
+
+**New Features Need To Add**
+Note:- This Update Go On Second Build
+1. Add Option To Show The Answer If Any User Don't Know What Is The Answer Then he Will Click On That Button //Done
+2. Add More Language Options ( On Home Page )//Done
+3. Add Option To Ask Any Question Regarding There Current Question
+
